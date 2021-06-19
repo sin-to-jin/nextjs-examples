@@ -7,8 +7,8 @@ Next.js + TypeScript + Canvas([konva](https://github.com/konvajs/react-konva))
 # Tutorial
 
 ```tsx
-git clone git@github.com:ogasawaraShinnosuke/nextjs-custom-pj.git
-cd nextjs-custom-pj/konva
+git clone git@github.com:ogasawaraShinnosuke/nextjs-examples.git
+cd nextjs-examples/konva
 yarn install
 yarn dev
 ```
