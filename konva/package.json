@@ -1,5 +1,6 @@
 {
   "name": "nextjs-custom-pj/konva",
+  "author": "sin",
   "version": "0.1.0",
   "private": true,
   "scripts": {
